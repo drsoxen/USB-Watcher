@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB Watcher", "USB Watcher\USB Watcher.csproj", "{222336C9-2BBE-4A53-B877-0A1787EC1BC8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{322B5E4E-F4A5-4FAA-8101-BACFB40EE008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222336C9-2BBE-4A53-B877-0A1787EC1BC8}.Debug|x86.ActiveCfg = Debug|x86
+		{222336C9-2BBE-4A53-B877-0A1787EC1BC8}.Debug|x86.Build.0 = Debug|x86
+		{222336C9-2BBE-4A53-B877-0A1787EC1BC8}.Release|x86.ActiveCfg = Release|x86
+		{222336C9-2BBE-4A53-B877-0A1787EC1BC8}.Release|x86.Build.0 = Release|x86
+		{322B5E4E-F4A5-4FAA-8101-BACFB40EE008}.Debug|x86.ActiveCfg = Debug
+		{322B5E4E-F4A5-4FAA-8101-BACFB40EE008}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
